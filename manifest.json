@@ -1,0 +1,25 @@
+{
+  "short_name": "Minute",
+  "name": "Minute Messenger",
+  "icons": [
+    {
+      "src": "9254805.png",
+      "type": "image/png",
+      "sizes": "512x512"
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Minute",
+      "short_name": "Minute",
+      "description": "Minute Messenger by w_h_at",
+      "url": "/today?source=pwa",
+      "icons": [{ "src": "9254805.png", "sizes": "192x192" }]
+    },
+  ],
+}
